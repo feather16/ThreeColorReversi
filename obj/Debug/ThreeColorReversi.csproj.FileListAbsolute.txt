@@ -1,0 +1,10 @@
+C:\tmp\game\ThreeColorReversi\obj\Debug\ThreeColorReversi.csproj.AssemblyReference.cache
+C:\tmp\game\ThreeColorReversi\obj\Debug\ThreeColorReversi.Properties.Resources.resources
+C:\tmp\game\ThreeColorReversi\obj\Debug\ThreeColorReversi.ThreeColorReversi.resources
+C:\tmp\game\ThreeColorReversi\obj\Debug\ThreeColorReversi.csproj.GenerateResource.cache
+C:\tmp\game\ThreeColorReversi\obj\Debug\ThreeColorReversi.csproj.CoreCompileInputs.cache
+C:\tmp\game\ThreeColorReversi\bin\Debug\ThreeColorReversi.exe.config
+C:\tmp\game\ThreeColorReversi\bin\Debug\ThreeColorReversi.exe
+C:\tmp\game\ThreeColorReversi\bin\Debug\ThreeColorReversi.pdb
+C:\tmp\game\ThreeColorReversi\obj\Debug\ThreeColorReversi.exe
+C:\tmp\game\ThreeColorReversi\obj\Debug\ThreeColorReversi.pdb

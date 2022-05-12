@@ -1,0 +1,9 @@
+C:\tmp\game\ThreeColorReversi\bin\Release\ThreeColorReversi.exe.config
+C:\tmp\game\ThreeColorReversi\bin\Release\ThreeColorReversi.exe
+C:\tmp\game\ThreeColorReversi\bin\Release\ThreeColorReversi.pdb
+C:\tmp\game\ThreeColorReversi\obj\Release\ThreeColorReversi.Properties.Resources.resources
+C:\tmp\game\ThreeColorReversi\obj\Release\ThreeColorReversi.ThreeColorReversi.resources
+C:\tmp\game\ThreeColorReversi\obj\Release\ThreeColorReversi.csproj.GenerateResource.cache
+C:\tmp\game\ThreeColorReversi\obj\Release\ThreeColorReversi.csproj.CoreCompileInputs.cache
+C:\tmp\game\ThreeColorReversi\obj\Release\ThreeColorReversi.exe
+C:\tmp\game\ThreeColorReversi\obj\Release\ThreeColorReversi.pdb
